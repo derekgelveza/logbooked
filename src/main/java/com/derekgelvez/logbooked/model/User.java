@@ -1,7 +1,6 @@
-package com.derekgelvez.logbooked.entity;
+package com.derekgelvez.logbooked.model;
 
 import jakarta.persistence.*;
-import lombok.Data;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

@@ -1,4 +1,4 @@
-package com.derekgelvez.logbooked.entity;
+package com.derekgelvez.logbooked.model;
 
 import jakarta.persistence.*;
 import lombok.Getter;
